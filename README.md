@@ -1,2 +1,4 @@
-# collage 2nd Year week_1 module 
-this is my first git module week_1
+#2nd_Year_-week-1-module 
+c and c++ programming language 
+<br>
+solve star pattern questions
